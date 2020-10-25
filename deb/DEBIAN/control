@@ -1,0 +1,7 @@
+Package: minipot
+Version: 1.0.0.0
+Maintainer: Sriram M <msris108@gmail.com>
+Description: Rev-Shell - TCP - Honeypot in python
+Homepage: https://github.com/msris108/minipot
+Architecture: all
+Depends: python3

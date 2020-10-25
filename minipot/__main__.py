@@ -42,7 +42,7 @@ print("\n\n"
       "                                |__/\n"
       "\nA simple honey pot for reverse tcp shells, netcat reverse shell attacks ...\n"
       "DEFAULTS:\n"
-      "\tconfig file:   \t./minipot.example.ini\n"
+      "\tconfig file:   \t/etc/minipot.example.ini\n"
       "\tlogfile path:  \t./minipot.log\n"
       "\tports watched: \t8080,8888,9999,3306 "
       )

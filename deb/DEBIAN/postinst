@@ -1,0 +1,10 @@
+#!/bin/bash
+
+id -u minipot &>/dev/null || useradd minipot
+mkdir -p /home/minipot
+
+/usr/bin/python3 -m pip uninstall -y minipot
+/usr/bin/python3 -m pip install minipot --no-cache-dir
+rm /opt/$package
+
+systemctl enable minipot

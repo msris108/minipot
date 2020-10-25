@@ -2,6 +2,7 @@ minipot.log
 minipot.ini
 venv
 *.egg-info
-disy/
+dist
 __pychache__
 *.pyc
+
