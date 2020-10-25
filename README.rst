@@ -3,6 +3,15 @@ Minipot Quickstart
 A simple honeypot to capture attacks such as netcat reverse shell attacks or reverse tcp shell attacks.
 Minipot is written in python with no dependencies. Capable of simulating a simple shell and smart smart responses.
 
+Installation:
+-------------
+
+python3 pip install minipot
+
+Running:
+--------
+
+python3 -m minipot
 
 Source Code
 -----------
