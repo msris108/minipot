@@ -1,0 +1,7 @@
+minipot.log
+minipot.ini
+venv
+*.egg-info
+disy/
+__pychache__
+*.pyc
