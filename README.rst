@@ -12,7 +12,7 @@ https://github.com/msris108/minipot
 Documentation
 -------------
 
-https://minipot.rtfd.io
+https://pypi.org/project/minipot/
 
 Documentation can also be found in the docs\
 
